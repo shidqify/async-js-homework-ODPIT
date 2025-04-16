@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Lyndel",
+    "last_name": "Kenwyn",
+    "email": "lkenwyn0@upenn.edu",
+    "gender": "Female",
+    "ip_address": "156.146.163.70"
+  },
+  {
+    "id": 2,
+    "first_name": "Boot",
+    "last_name": "Oliveti",
+    "email": "boliveti1@symantec.com",
+    "gender": "Male",
+    "ip_address": "79.156.175.79"
+  },
+  {
+    "id": 3,
+    "first_name": "Johna",
+    "last_name": "Blaase",
+    "email": "jblaase2@springer.com",
+    "gender": "Female",
+    "ip_address": "166.140.136.177"
+  },
+  {
+    "id": 4,
+    "first_name": "Carlynne",
+    "last_name": "Antoniewicz",
+    "email": "cantoniewicz3@latimes.com",
+    "gender": "Female",
+    "ip_address": "113.28.51.36"
+  },
+  {
+    "id": 5,
+    "first_name": "Rosy",
+    "last_name": "Sivell",
+    "email": "rsivell4@over-blog.com",
+    "gender": "Female",
+    "ip_address": "23.156.143.105"
+  },
+  {
+    "id": 6,
+    "first_name": "Pauli",
+    "last_name": "Butner",
+    "email": "pbutner5@mac.com",
+    "gender": "Genderfluid",
+    "ip_address": "110.204.213.92"
+  },
+  {
+    "id": 7,
+    "first_name": "Lew",
+    "last_name": "Zorzetti",
+    "email": "lzorzetti6@google.com",
+    "gender": "Male",
+    "ip_address": "209.230.147.184"
+  },
+  {
+    "id": 8,
+    "first_name": "Hadley",
+    "last_name": "Vouls",
+    "email": "hvouls7@fastcompany.com",
+    "gender": "Male",
+    "ip_address": "103.104.183.111"
+  },
+  {
+    "id": 9,
+    "first_name": "shidqi",
+    "last_name": "Etuck",
+    "email": "cetuck8@microsoft.com",
+    "gender": "Male",
+    "ip_address": "80.95.61.143"
+  },
+  {
+    "id": 10,
+    "first_name": "Judah",
+    "last_name": "Terry",
+    "email": "jterry9@booking.com",
+    "gender": "Male",
+    "ip_address": "18.52.6.132"
+  }
+]
